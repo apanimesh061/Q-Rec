@@ -16,6 +16,7 @@ Following libraries were used for this project:
 7. CGI - Web page was hosted on Apache server using Python CGI.
 
 Algorithms used here:
+
 1. Top-N Recommendation.
 2. Tf_Idf Vector Similarity.
 3. Latent Dirichlet Allocation (LDA)
